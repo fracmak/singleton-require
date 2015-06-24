@@ -1,0 +1,28 @@
+{
+  "name": "singleton-require",
+  "version": "1.0.0",
+  "description": "When you need to a single reference to a global singleton (mongoose, config, cache) shared amongst all npm modules, useful for plugin systems",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fracmak/singleton-require.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "singleton"
+  ],
+  "author": "Jay Merrifield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fracmak/singleton-require/issues"
+  },
+  "homepage": "https://github.com/fracmak/singleton-require#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "load-grunt-tasks": "^3.2.0"
+  }
+}
