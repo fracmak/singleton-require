@@ -1,7 +1,7 @@
 {
   "name": "singleton-require",
   "version": "1.0.0",
-  "description": "When you need to a single reference to a global singleton (mongoose, config, cache) shared amongst all npm modules, useful for plugin systems",
+  "description": "When you need a single reference to a global singleton (mongoose, config, cache) shared amongst all npm modules, useful for plugin systems",
   "main": "index.js",
   "repository": {
     "type": "git",
