@@ -1,6 +1,6 @@
 {
   "name": "singleton-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "When you need a single reference to a global singleton (mongoose, config, cache) shared amongst all npm modules, useful for plugin systems",
   "main": "index.js",
   "repository": {
